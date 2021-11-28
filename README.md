@@ -1,6 +1,6 @@
 # ARTISTS-PAYSTACK
 
-The index.php is the home page and has all artist.
+The index.php is the home page and has all artists.
 
 When the Fans click on a product to pay, they pay in the creator's account and the platform receives 2 percent of the payment.
 
